@@ -1,3 +1,6 @@
 [submodule "src/main/resources/configs"]
 	path = src/main/resources/configs
 	url = https://github.com/dlachdla/hello-mvc-configs.git
+[submodule "src/main/resoures/configs"]
+	path = src/main/resoures/configs
+	url = https://github.com/dlachdla/hello-mvc-configs.git
